@@ -1,0 +1,151 @@
+admission_id,patient_id,department,admission_date,discharge_date,reason_for_admission
+1,82,Orthopedics,2024-11-29,2024-12-08,Surgery
+2,99,Orthopedics,2024-08-25,2024-08-26,Checkup
+3,41,Oncology,2024-11-01,2024-11-08,Checkup
+4,28,Oncology,2024-08-28,2024-09-07,Emergency
+5,84,General Medicine,2024-03-06,2024-03-14,Diagnosis
+6,19,Orthopedics,2024-01-30,2024-02-04,Emergency
+7,96,Neurology,2025-03-07,2025-03-16,Surgery
+8,96,General Medicine,2024-02-06,2024-02-16,Therapy
+9,52,Orthopedics,2024-03-28,2024-04-03,Emergency
+10,66,Cardiology,2025-02-18,2025-02-26,Checkup
+11,15,Orthopedics,2025-03-27,2025-03-30,Diagnosis
+12,77,General Medicine,2025-03-19,2025-03-21,Diagnosis
+13,77,Neurology,2024-02-02,2024-02-10,Surgery
+14,71,Cardiology,2024-01-31,2024-02-01,Therapy
+15,97,Oncology,2023-06-16,2023-06-21,Checkup
+16,38,Orthopedics,2024-09-26,2024-10-03,Diagnosis
+17,1,Neurology,2024-09-10,2024-09-15,Emergency
+18,65,Oncology,2025-02-22,2025-02-24,Therapy
+19,78,Orthopedics,2024-06-06,2024-06-10,Surgery
+20,98,Neurology,2023-07-27,2023-07-30,Therapy
+21,1,Oncology,2024-09-03,2024-09-13,Diagnosis
+22,3,Oncology,2025-02-11,2025-02-13,Surgery
+23,31,Orthopedics,2024-01-10,2024-01-11,Therapy
+24,11,General Medicine,2023-07-16,2023-07-18,Checkup
+25,98,Orthopedics,2023-08-31,2023-09-09,Emergency
+26,85,Neurology,2024-06-05,2024-06-13,Emergency
+27,34,Neurology,2024-02-14,2024-02-23,Diagnosis
+28,28,Orthopedics,2024-05-29,2024-06-07,Surgery
+29,52,General Medicine,2023-07-22,2023-07-28,Therapy
+30,58,Orthopedics,2024-10-31,2024-11-02,Emergency
+31,9,Cardiology,2023-10-04,2023-10-10,Therapy
+32,71,Neurology,2025-01-22,2025-01-26,Emergency
+33,1,Cardiology,2023-04-17,2023-04-19,Emergency
+34,9,Oncology,2024-11-22,2024-11-23,Checkup
+35,66,Oncology,2023-05-02,2023-05-06,Diagnosis
+36,28,Orthopedics,2023-12-02,2023-12-11,Therapy
+37,74,Orthopedics,2024-04-08,2024-04-16,Diagnosis
+38,53,Cardiology,2024-09-19,2024-09-23,Checkup
+39,85,Oncology,2024-10-24,2024-10-31,Diagnosis
+40,53,Cardiology,2024-06-10,2024-06-18,Checkup
+41,8,Oncology,2024-03-09,2024-03-16,Checkup
+42,32,Orthopedics,2024-06-01,2024-06-05,Therapy
+43,58,General Medicine,2024-02-03,2024-02-06,Emergency
+44,36,Orthopedics,2025-01-13,2025-01-21,Checkup
+45,57,Cardiology,2023-10-10,2023-10-19,Checkup
+46,84,Cardiology,2023-10-24,2023-11-02,Checkup
+47,97,Orthopedics,2024-04-06,2024-04-10,Diagnosis
+48,63,Orthopedics,2024-01-08,2024-01-16,Diagnosis
+49,8,General Medicine,2023-08-13,2023-08-16,Checkup
+50,50,General Medicine,2023-11-15,2023-11-20,Surgery
+51,55,General Medicine,2023-09-08,2023-09-17,Emergency
+52,25,Orthopedics,2025-04-12,2025-04-17,Checkup
+53,75,Cardiology,2025-02-22,2025-03-03,Surgery
+54,8,Neurology,2024-10-29,2024-10-30,Diagnosis
+55,65,Orthopedics,2024-11-29,2024-12-08,Checkup
+56,66,Orthopedics,2023-07-11,2023-07-13,Checkup
+57,77,Orthopedics,2023-05-10,2023-05-12,Diagnosis
+58,16,Orthopedics,2025-01-02,2025-01-12,Therapy
+59,77,Neurology,2024-09-08,2024-09-09,Checkup
+60,54,Neurology,2024-03-05,2024-03-15,Therapy
+61,41,Orthopedics,2024-08-04,2024-08-09,Surgery
+62,31,General Medicine,2024-11-30,2024-12-05,Emergency
+63,86,General Medicine,2025-04-11,2025-04-16,Surgery
+64,97,Cardiology,2025-03-01,2025-03-03,Diagnosis
+65,80,Cardiology,2025-03-05,2025-03-15,Checkup
+66,69,Neurology,2023-04-27,2023-05-01,Surgery
+67,17,Cardiology,2023-10-18,2023-10-24,Emergency
+68,48,Orthopedics,2023-09-22,2023-09-27,Diagnosis
+69,70,Neurology,2023-06-06,2023-06-11,Therapy
+70,2,Oncology,2023-07-02,2023-07-11,Checkup
+71,18,Cardiology,2024-07-19,2024-07-24,Checkup
+72,96,Orthopedics,2023-05-11,2023-05-20,Surgery
+73,37,Orthopedics,2024-03-26,2024-04-05,Surgery
+74,27,Neurology,2024-07-22,2024-07-27,Diagnosis
+75,33,Cardiology,2024-09-17,2024-09-18,Diagnosis
+76,36,Cardiology,2024-10-12,2024-10-13,Surgery
+77,99,Oncology,2025-02-20,2025-02-23,Emergency
+78,95,Neurology,2023-05-22,2023-05-30,Diagnosis
+79,72,Cardiology,2023-10-22,2023-10-23,Checkup
+80,89,Neurology,2024-11-10,2024-11-13,Checkup
+81,48,Neurology,2023-05-19,2023-05-29,Emergency
+82,56,Cardiology,2024-02-21,2024-02-24,Surgery
+83,47,Oncology,2024-03-20,2024-03-21,Emergency
+84,88,Cardiology,2023-10-14,2023-10-18,Surgery
+85,100,General Medicine,2024-06-07,2024-06-16,Therapy
+86,96,Orthopedics,2023-09-30,2023-10-03,Emergency
+87,23,Cardiology,2024-11-20,2024-11-27,Emergency
+88,95,General Medicine,2025-02-13,2025-02-19,Emergency
+89,35,Cardiology,2024-12-07,2024-12-10,Diagnosis
+90,5,Orthopedics,2023-05-28,2023-06-05,Emergency
+91,59,Oncology,2023-08-01,2023-08-07,Emergency
+92,29,Orthopedics,2024-05-10,2024-05-11,Diagnosis
+93,43,Cardiology,2023-11-25,2023-11-30,Surgery
+94,45,General Medicine,2023-10-13,2023-10-22,Therapy
+95,43,Cardiology,2025-01-07,2025-01-08,Surgery
+96,23,Oncology,2025-03-26,2025-04-05,Checkup
+97,14,General Medicine,2024-11-03,2024-11-13,Surgery
+98,94,General Medicine,2024-07-05,2024-07-11,Therapy
+99,66,General Medicine,2023-12-18,2023-12-20,Therapy
+100,25,Cardiology,2024-07-06,2024-07-11,Diagnosis
+101,1,Neurology,2024-07-22,2024-07-31,Emergency
+102,47,Cardiology,2024-12-05,2024-12-12,Surgery
+103,80,Cardiology,2024-09-18,2024-09-24,Surgery
+104,65,General Medicine,2025-01-09,2025-01-14,Surgery
+105,52,Neurology,2023-12-20,2023-12-25,Emergency
+106,25,General Medicine,2023-10-16,2023-10-23,Emergency
+107,79,Oncology,2023-12-05,2023-12-15,Diagnosis
+108,71,Oncology,2025-02-23,2025-02-24,Surgery
+109,27,Neurology,2023-08-04,2023-08-11,Therapy
+110,84,General Medicine,2024-09-08,2024-09-14,Diagnosis
+111,57,Neurology,2024-05-23,2024-05-27,Diagnosis
+112,95,Cardiology,2023-10-03,2023-10-06,Surgery
+113,66,Oncology,2024-03-01,2024-03-11,Checkup
+114,97,Oncology,2023-12-04,2023-12-08,Emergency
+115,26,Cardiology,2023-11-14,2023-11-17,Checkup
+116,32,Neurology,2023-06-01,2023-06-09,Checkup
+117,59,Neurology,2024-06-20,2024-06-27,Emergency
+118,92,General Medicine,2024-07-17,2024-07-24,Diagnosis
+119,32,Cardiology,2025-02-26,2025-03-01,Checkup
+120,100,Orthopedics,2024-11-06,2024-11-13,Emergency
+121,90,General Medicine,2025-03-23,2025-04-01,Checkup
+122,72,Cardiology,2023-08-29,2023-09-02,Diagnosis
+123,18,Neurology,2024-08-13,2024-08-21,Therapy
+124,77,General Medicine,2024-09-23,2024-09-29,Therapy
+125,93,General Medicine,2024-03-11,2024-03-20,Therapy
+126,58,General Medicine,2024-06-19,2024-06-22,Diagnosis
+127,34,Oncology,2024-05-03,2024-05-07,Therapy
+128,63,Oncology,2023-05-21,2023-05-25,Diagnosis
+129,10,Orthopedics,2024-01-07,2024-01-12,Surgery
+130,43,Neurology,2024-08-26,2024-09-01,Checkup
+131,18,Orthopedics,2024-09-17,2024-09-20,Diagnosis
+132,89,Orthopedics,2024-02-05,2024-02-08,Checkup
+133,54,Oncology,2024-12-15,2024-12-22,Therapy
+134,60,Cardiology,2024-05-26,2024-06-02,Emergency
+135,54,Neurology,2023-12-18,2023-12-25,Checkup
+136,98,General Medicine,2024-10-06,2024-10-16,Diagnosis
+137,1,Oncology,2024-03-03,2024-03-09,Diagnosis
+138,54,Neurology,2024-02-26,2024-03-06,Therapy
+139,29,Orthopedics,2023-08-08,2023-08-16,Surgery
+140,56,Cardiology,2023-12-03,2023-12-11,Diagnosis
+141,44,Orthopedics,2024-02-01,2024-02-08,Diagnosis
+142,17,Neurology,2023-09-04,2023-09-14,Checkup
+143,51,Neurology,2024-11-20,2024-11-30,Checkup
+144,11,Orthopedics,2024-06-05,2024-06-12,Diagnosis
+145,24,Oncology,2024-04-16,2024-04-17,Diagnosis
+146,42,General Medicine,2023-10-19,2023-10-23,Surgery
+147,44,Oncology,2025-02-02,2025-02-09,Diagnosis
+148,33,General Medicine,2023-10-07,2023-10-09,Checkup
+149,96,Cardiology,2023-12-04,2023-12-13,Surgery
+150,29,Cardiology,2025-02-09,2025-02-11,Checkup
